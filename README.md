@@ -7,6 +7,7 @@ Autonomous multi-subnet network architecture designed and deployed using **Routi
 ---
 
 ## 🗺️ Architectural Topology Matrix
+![Network Topology](./topology.png)
 
 ### Network Architecture Key Metrics
 * **Routing Protocol:** RIPv2 (Classless Routing with CIDR)
